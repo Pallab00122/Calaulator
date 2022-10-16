@@ -12,18 +12,18 @@ table{
 
 }
 button{
-    background-color: black;
+    background-color: green;
     color: white;
-    width: 84px;
-    height: 60px;
+    width: 83px;
+    height: 61px;
     border-radius: 25px;
     
 }
 
 input{
     
-    font-size: 28px;
-    padding: 9px;
+    font-size: 27px;
+    padding: 8px;
     border-radius: 11px;
     background-color: rgb(138, 208, 67);
 }
